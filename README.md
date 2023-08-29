@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beautypassion
-- 👀 I’m interested in java, python
-- 🌱 I’m currently learning </>
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in php, java, python
+- 🌱 I’m always learning </>
+- 💞️ I’m looking to collaborate on php projects
 - 📫 To reach me, just follow me!
 
 <!---
